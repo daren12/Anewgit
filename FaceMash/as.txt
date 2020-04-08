@@ -1,0 +1,22 @@
+COLOR:
+#FFFFFF - vit
+#F0F4F8 - ljus blå
+#7BED8D - Grönt
+#A6BCD0 - FONT färg
+
+
+
+
+
+
+Två Bilder : X vs Y
+
+Random.(allPic(X))
+Random.(allPic(Y))
+
+Vote X->X++(101votes)
+Y(50votes)
+Show result(101/151 = 0.66 = 66%)
+------- ---
+
+Problem: alla random behöver en ny tableRow med X vs Y
